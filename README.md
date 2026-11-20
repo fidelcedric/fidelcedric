@@ -21,6 +21,6 @@ I completed AWS Cloud Practitioner Essentials and the ALX Pathways software deve
 
 I started on Arch Linux with Hyprland on a ThinkPad T440. I now run Omarchy 4.5. My old Arch rice is in [dotfiles](https://github.com/Polymerthcedric/dotfiles). I stopped ricing when it became maintenance instead of fun.
 
-More recent work lives at [@Polymerthcedric](https://github.com/Polymerthcedric).
+My other GitHub account is [@Polymerthcedric](https://github.com/Polymerthcedric). That account holds the open-source DevSecOps starter, the JSON tool, and the larger prototypes.
 
 I keep public docs to a short [writing standard](https://github.com/Polymerthcedric/Polymerthcedric/blob/main/WRITING.md).
