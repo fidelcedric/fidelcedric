@@ -1,26 +1,26 @@
-## Hey, I'm Fidel 👋
+# Fidel Cedric Odoyo
 
-**Software developer & AWS Cloud Practitioner** exploring systems, DevOps, and the web.
+I'm a software developer in Kibera, Nairobi. I build web apps and small tools with TypeScript, React, Next.js, Node.js, and Python. I'm learning DevOps by using CI/CD and containers in projects.
 
-- 🔭 Working on full-stack projects and Linux environment tooling
-- 🌱 Deepening my DevOps skill set — automation, IaC, CI/CD, containerization
-- ☁️ AWS Certified Cloud Practitioner
-- 🎨 Gallery with C/WebAssembly image filters: [ArtVision](https://fidelcedric.github.io/artvision/)
-- ⚙️ Daily driving Arch Linux + Hyprland on a ThinkPad T440
-- 📍 Kibera, Nairobi
+I write plainly about what I build. A static concept stays a concept. Coursework stays coursework. Sample content is labelled as sample content.
 
-### What you'll find here
+- [Portfolio](https://fidelco.dev/)
+- [LinkedIn](https://linkedin.com/in/fidel-odoyo)
+- [Email](mailto:fidelcedricodoyo@gmail.com)
+- Phone: +254 100363487
 
-| Project | Stack |
-|---|---|
-| [ArtVision](https://fidelcedric.github.io/artvision/) | HTML, CSS, Vanilla JS, C → WASM |
-| [SawaPro Landing Page](https://fidelcedric.github.io/sawapro-landing-page/) | HTML, Tailwind CSS, Vanilla JS |
-| [System Engineering & DevOps](https://github.com/fidelcedric/system_engineering-devops) | Bash, Linux |
+## Work you can look at
 
-### Get in touch
+- [ArtVision](https://fidelcedric.github.io/artvision/) — a static art gallery concept. The C/WebAssembly image filters work; the names and testimonials are sample content. [Source](https://github.com/fidelcedric/artvision).
+- [SawaPro Landing Page](https://fidelcedric.github.io/sawapro-landing-page/) — a static auto repair landing page concept. The business details, images, and figures are samples. There is no booking backend. [Source](https://github.com/fidelcedric/sawapro-landing-page).
+- [System Engineering & DevOps](https://github.com/fidelcedric/system_engineering-devops) — my ALX Pathway Bash and Linux exercises. Coursework, not production tooling.
 
-📧 fidelcedricodoyo@gmail.com · 📞 +254 100363487 · [LinkedIn](https://linkedin.com/in/fidel-odoyo) · [GitHub](https://github.com/fidelcedric) · [Instagram](https://instagram.com/polymerth_)
+## Background
 
-📦 Also on [@Polymerthcedric](https://github.com/Polymerthcedric) — BankUi, Medimart, multi-agent trading, and more.
+I completed AWS Cloud Practitioner Essentials and the ALX Pathways software development programme.
 
-© 2026 Fidel Cedric Odoyo
+I started on Arch Linux with Hyprland on a ThinkPad T440. I now run Omarchy 4.5. My old Arch rice is in [dotfiles](https://github.com/Polymerthcedric/dotfiles). I stopped ricing when it became maintenance instead of fun.
+
+More recent work lives at [@Polymerthcedric](https://github.com/Polymerthcedric).
+
+I keep public docs to a short [writing standard](https://github.com/Polymerthcedric/Polymerthcedric/blob/main/WRITING.md).
